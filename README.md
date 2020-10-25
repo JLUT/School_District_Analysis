@@ -3,6 +3,7 @@
 In this project I have given a school district data about their school's budget ,reading and math scores of each student in different schools. First I did some  data clean up and sorting of the data so that I could more easily analyze the data. With this anslysis I could show the data trends and school preformance of each school, so that the district could take decisions, as needed.
 
 ** Results **
+
 In this challenge we replaced 9th grade math and reading score by NaN which represents a "Not a number" value, for 461 student records. This looks like a significant number but these score replacements didnot alter data summaries greatly overall. Also we have calculated the % passing math, % passing reading and overall passing % of Thomas High School just for the 10th, 11th and 12th grade students and replaced this data for the overall Thomas High School in our main data frame. 
 
 
