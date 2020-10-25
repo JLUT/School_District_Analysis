@@ -27,8 +27,7 @@ When assessing school summaries and performing schools, the score replacements d
 
 Pic - School Summary Original
 
-<img width="1107" alt="School performance original" src="https://user-images.githubusercontent.com/71113701/97110699-abf1cf00-16a8-11eb-8192-fe70f959198e.png">
-
+<img width="1075" alt="School performance original" src="https://user-images.githubusercontent.com/71113701/97112153-b1531780-16b0-11eb-9d34-12015777d741.png">
 
 Pic - Top schools after removing data
 
