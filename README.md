@@ -12,7 +12,7 @@ When assessing average scores and passing percentages among the 15 high schools 
 
 Pic - District Summary Original
 
-
+<img width="604" alt="District summary orginal" src="https://user-images.githubusercontent.com/71113701/97110581-f58dea00-16a7-11eb-8871-92fa03aa2c49.png">
 
 
 Pic - District Summary after removing data
