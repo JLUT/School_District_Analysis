@@ -92,36 +92,25 @@ Total School Type Summary Original
 
 Total School Type Summary after removing data
 
+<img width="803" alt="School type after removing data" src="https://user-images.githubusercontent.com/71113701/97111061-ab5a3800-16aa-11eb-812c-bf9f0cd17b8f.png">
 
-In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.
+
+In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a minimal reduction in charter school's passing percentages only. On the plus side, these rates are still far superior when compared to district schools.
 
 
-** End of Results **
+
 
 ** Summary **
-
-Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
-
-
-** End of Challenge **
-
-
-
 
 
 After removing the ninth-grade math and reading scores from Thomas High School, it affacts summary tables by slightly reducing the average scores and enomous decreasing for the passing percentage rate, including both math and reading passing percentage as well as overall passing percentage.
 
 
-
-Two clear trends appear in the data:
-
 Charter schools performed better than district schools. The average charter math and reading scores showed a respective 5 point and 3 point edge over the district schools, resulting in a math passing rate over 25 percentage points higher, and a reading passing rate over 15 points higher.
-Smaller schools--measured by total students, total budget, or, most surprisingly, budget per student--had better math and reading test scores than larger schools. In each size analysis, the bottom two quintiles' schools' test scores were over 5 points better in math, and over 3 points better in reading than the larger schools. This translated into passing rates for math and reading 20 and 10 percentage points higher, respectively, in the two smallest-quintile schools.
-One complicating wrinkle is that the charter schools are all smaller. Wilson High, the largest charter school, serves almost 500 fewer students than Ford High, the smallest district school.
+
+Smaller schools--measured by total students, total budget, or, most surprisingly, budget per student--had better math and reading test scores than larger schools. 
 
 One argument against directly attributing better scores to school size: the charter schools' better scores do not vary by school size. The district schools' scores vary little by school size as well.
-
-The next challenge is to determine whether there is a systematic difference in the composition of the charter school student population versus the district school student population.
 
 
 
