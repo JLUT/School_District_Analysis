@@ -17,6 +17,7 @@ Pic - District Summary Original
 
 Pic - District Summary after removing data
 
+<img width="616" alt="District summary after removing data" src="https://user-images.githubusercontent.com/71113701/97110628-3980ef00-16a8-11eb-9b81-56d4b1ba22d0.png">
 
 
 When assessing school summaries and performing schools, the score replacements did affect the ranking of the top five performing schools. Thomas High School ranked second place in the top five performing schools with a 91% overall passing. After replacing both math and reading scores, Thomas High School was taken out of the top five category since they now display a 65% overall passing. 
