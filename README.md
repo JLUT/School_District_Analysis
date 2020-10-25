@@ -11,7 +11,7 @@ In this challenge we replaced 9th grade math and reading score by NaN which repr
 When assessing average scores and passing percentages among the 15 high schools in the school district, the average math score dropped 0.1 point, the average reading score stayed the same, the percentage passing math dropped 0.2%, the percentage passing reading dropped 0.3%, and the overall passing percent dropped 0.1%.
 
 
-Pic - District Summary Original
+**Pic - District Summary Original**
 
 <img width="604" alt="District summary orginal" src="https://user-images.githubusercontent.com/71113701/97110581-f58dea00-16a7-11eb-8871-92fa03aa2c49.png">
 
@@ -39,12 +39,12 @@ Pic - Top schools after removing data
 
 
 
-Average Math score by grade
+**Average Math score by grade**
 
 <img width="522" alt="Math Score by grade" src="https://user-images.githubusercontent.com/71113701/97110805-3afee700-16a9-11eb-9043-4f3ab6e2f3fd.png">
 
 
-Average Reading score by grade
+**Average Reading score by grade**
 
 <img width="565" alt="Reading score by grade" src="https://user-images.githubusercontent.com/71113701/97110834-5669f200-16a9-11eb-8403-7609332e2aca.png">
 
@@ -55,7 +55,7 @@ Another plus side from this data replacement is that it did not change the math 
 
 
 
-School spending summary Original
+**School spending summary Original**
 
 <img width="788" alt="School Spending summary Original" src="https://user-images.githubusercontent.com/71113701/97110859-7d282880-16a9-11eb-97a5-8e8f4714f4fb.png">
 
@@ -72,7 +72,7 @@ When reviewing the School Spending summary, this data change did not impact the 
 
 
 
-School Size Summary Original
+**School Size Summary Original**
 
 <img width="827" alt="School size Original" src="https://user-images.githubusercontent.com/71113701/97110942-f293f900-16a9-11eb-82b1-3e78c20bf256.png">
 
@@ -87,7 +87,7 @@ When reviewing the School Size summary, removing the ninth grade scores did not 
 
 
 
-Total School Type Summary Original
+**Total School Type Summary Original**
 
 <img width="756" alt="School Type Original" src="https://user-images.githubusercontent.com/71113701/97111011-58808080-16aa-11eb-9c87-caef632f9b23.png">
 
