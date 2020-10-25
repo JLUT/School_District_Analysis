@@ -75,12 +75,14 @@ School Size Summary Original
 
 <img width="827" alt="School size Original" src="https://user-images.githubusercontent.com/71113701/97110942-f293f900-16a9-11eb-82b1-3e78c20bf256.png">
 
+
 School Size summary after removing data
 
-Pic
+<img width="815" alt="School size after removing data" src="https://user-images.githubusercontent.com/71113701/97110964-122b2180-16aa-11eb-856b-4ccf6f168a62.png">
 
 
-When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1,000-2,000). In this category, % passing math, % passing reading, and % overall passing dropped 6% each. Before the data change, the School Size summary showed that medium-sized school had a high performance (91% overall passing) compared to small (90% overall passing) and large schools (58% overall passing). Given the data change, medium size school are the second in performance (85% overall passing).
+
+When reviewing the School Size summary, removing the ninth grade scores did not affect the average math and reading scores, but it did affect the passing percentages for medium-sized schools (1,000-2,000). In this category, % passing math, % passing reading, and % overall passing dropped slightly (only decimal point differences)
 
 
 
