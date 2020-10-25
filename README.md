@@ -45,7 +45,7 @@ Average Math score by grade
 
 Average Reading score by grade
 
-pic
+<img width="565" alt="Reading score by grade" src="https://user-images.githubusercontent.com/71113701/97110834-5669f200-16a9-11eb-8403-7609332e2aca.png">
 
 
 Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact.
