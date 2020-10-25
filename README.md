@@ -31,6 +31,7 @@ Pic - School Summary Original
 
 Pic - Top schools after removing data
 
+<img width="1105" alt="After Removing 9th grade data" src="https://user-images.githubusercontent.com/71113701/97110761-07bc5800-16a9-11eb-9474-761f96775f6d.png">
 
 
 
