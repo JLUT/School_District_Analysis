@@ -56,8 +56,7 @@ Another plus side from this data replacement is that it did not change the math 
 
 School spending summary Original
 
-
-pic
+<img width="788" alt="School Spending summary Original" src="https://user-images.githubusercontent.com/71113701/97110859-7d282880-16a9-11eb-97a5-8e8f4714f4fb.png">
 
 School spending summary after removing data
 
