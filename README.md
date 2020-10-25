@@ -40,7 +40,8 @@ Pic - Top schools after removing data
 
 Average Math score by grade
 
-pic
+<img width="522" alt="Math Score by grade" src="https://user-images.githubusercontent.com/71113701/97110805-3afee700-16a9-11eb-9043-4f3ab6e2f3fd.png">
+
 
 Average Reading score by grade
 
