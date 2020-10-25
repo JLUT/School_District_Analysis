@@ -73,7 +73,7 @@ When reviewing the School Spending summary, this data change did not impact the 
 
 School Size Summary Original
 
-Pic
+<img width="827" alt="School size Original" src="https://user-images.githubusercontent.com/71113701/97110942-f293f900-16a9-11eb-82b1-3e78c20bf256.png">
 
 School Size summary after removing data
 
