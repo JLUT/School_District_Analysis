@@ -60,10 +60,11 @@ School spending summary Original
 
 School spending summary after removing data
 
-Pic
+
+<img width="795" alt="School spending summary after removing data" src="https://user-images.githubusercontent.com/71113701/97110895-a648b900-16a9-11eb-8da8-09c84f9928ca.png">
 
 
-When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. However, this data change did impact the spending ranges for passing percentages. According to the summary above, there was a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.
+When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. However, this data change did impact the spending ranges for passing percentages. According to the summary above, there were minor decrease in % passing math, % passing reading, and % overall passing in the $630-644 spending range.
 
 
 
